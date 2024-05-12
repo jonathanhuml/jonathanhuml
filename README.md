@@ -1,4 +1,12 @@
-### Hi there 👋
+### ⚡ Howdy! ⚡
+
+I'm a graduate student researcher starting at Columbia University in 2024, previously at Harvard.
+
+🔭 I’m currently working on making state-space models extremely fast and memory efficient
+
+My personal (professional) website is [jonhuml.com](jonhuml.com) and my less professional website is [jonhumlatnight.com](jonhumlatnight.com)
+
+You can also find me at my [Substack](https://jonhuml.substack.com/) or on [LinkedIn](https://www.linkedin.com/in/jonhuml/)
 
 <!--
 **jonathanhuml/jonathanhuml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
