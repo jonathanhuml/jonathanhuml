@@ -1,8 +1,8 @@
 ### ⚡ Howdy! ⚡
 
-I'm a graduate student researcher starting at Columbia University in 2024, previously at Harvard.
+I'm a graduate student at Columbia University in the Statistics Department, previously at Harvard.
 
-🔭 I’m currently working on making state-space models extremely fast and memory efficient
+I’m currently working on making state-space models extremely fast and memory efficient
 
 My personal (professional) website is [jonhuml.com](jonhuml.com) and my less professional website is [jonhumlatnight.com](jonhumlatnight.com)
 
