@@ -4,7 +4,7 @@ I'm a graduate student at Columbia University in the Statistics Department, prev
 
 I’m currently working on making state-space models extremely fast and memory efficient
 
-My personal (professional) website is [jonhuml.com](jonhuml.com) and my less professional website is [jonhumlatnight.com](jonhumlatnight.com)
+My personal (professional) website is [jonhuml.com](jonhuml.com) 
 
 You can also find me at my [Substack](https://jonhuml.substack.com/) or on [LinkedIn](https://www.linkedin.com/in/jonhuml/)
 
