@@ -1,6 +1,10 @@
 ### ⚡ Howdy! ⚡
 
-I'm a graduate student at Columbia University in the Statistics Department, previously at Harvard. I’m currently working on making state-space models extremely fast and memory efficient. My personal (professional) website is [jonhuml.com](jonhuml.com). You can also find me at my [Substack](https://jonhuml.substack.com/) or on [LinkedIn](https://www.linkedin.com/in/jonhuml/)
+I'm an engineer in the Bay Area working on brain-computer interfaces. Though I am a mathematician by training, much of my research spans computational neuroscience.
+
+Previously, I was a PhD student at Columbia University in the Statistics Department. Before that, I was a master's student in the School of Engineering at Harvard. 
+
+I’m currently working on making state-space models extremely fast and memory efficient. My personal (professional) website is [jonhuml.com](jonhuml.com). You can also find me at my [Substack](https://jonhuml.substack.com/) or on [LinkedIn](https://www.linkedin.com/in/jonhuml/)
 
 <!--
 **jonathanhuml/jonathanhuml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
