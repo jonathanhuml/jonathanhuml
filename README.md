@@ -8,7 +8,7 @@ I’m currently working on making state-space models extremely fast and memory e
 
 <p>
 <a href="https://www.linkedin.com/in/jonhuml/">
-  <img src="https://img.shields.io/badge/-Jon%20Huml-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jon%20Huml-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/jonhumlatnight">
