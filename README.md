@@ -23,9 +23,6 @@ I’m currently working on making state-space models extremely fast and memory e
   <img src="https://img.shields.io/badge/-Website-111111?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/jonhuml">
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white"/>
-</a>
 </p>
 
 <p>
