@@ -6,3 +6,26 @@ Previously, I was a PhD student at Columbia University in the Statistics Departm
 
 I’m currently working on making state-space models extremely fast and memory efficient. My personal (professional) website is [jonhuml.com](https://jonathanhuml.github.io). You can also find me at my [Substack](https://jonhuml.substack.com/) or on [LinkedIn](https://www.linkedin.com/in/jonhuml/). Please feel free to reach out about any code or projects!
 
+<p>
+<a href="https://www.linkedin.com/in/jonhuml/">
+  <img src="https://img.shields.io/badge/-Jon%20Huml-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/jonhumlatnight">
+  <img src="https://img.shields.io/badge/-@jonhumlatnight-000000?style=flat&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=OHSoU54AAAAJ&hl=en&oi=ao">
+  <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://jonhuml.com/">
+  <img src="https://img.shields.io/badge/-Website-111111?style=flat&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- Profile views -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jonhuml&color=blue" />
+</p>
