@@ -8,7 +8,7 @@ I’m currently working on making state-space models extremely fast and memory e
 
 <p>
 <a href="https://www.linkedin.com/in/jonhuml/">
-  <img src="https://img.shields.io/badge/-Jon%20Huml-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jon%20Huml-0077B5?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNIDIwLjQ1MSAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N2gtMy41NTRWOSBoMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUtMy4zNy0xLjg1IDMuNjAzIDAgNC4yNjggMi4zNyA0LjI2OCA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0ek03LjExOSA5djExLjQ1MkgzLjU1NFY5aDMuNTY1ek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTRDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&logoColor=white"/>
 </a>
 
 <a href="https://x.com/jonhumlatnight">
@@ -23,9 +23,11 @@ I’m currently working on making state-space models extremely fast and memory e
   <img src="https://img.shields.io/badge/-Website-111111?style=flat&logo=google-chrome&logoColor=white"/>
 </a>
 
+<a href="https://github.com/jonhuml">
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white"/>
+</a>
 </p>
 
-<!-- Profile views -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=jonhuml&color=blue" />
 </p>
