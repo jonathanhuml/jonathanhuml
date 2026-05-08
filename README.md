@@ -1,6 +1,6 @@
 ### ⚡ Howdy! ⚡
 
-I'm an engineer in the Bay Area working on brain-computer interfaces. Though I am a mathematician by training, my graduate research has centered on computational neuroscience.
+I'm an engineer in the Bay Area working on brain-computer interfaces at Zyphra. Though I am a mathematician by training, my graduate research has centered on computational neuroscience.
 
 Previously, I was a PhD student at Columbia University in the Statistics Department. Before that, I was a master's student in the School of Engineering at Harvard. 
 
